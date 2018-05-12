@@ -1,10 +1,16 @@
 _repo: A-Diary-Kept-by-Mrs-R-C-Germon-at-Lucknow-Between-the-Months-of-May-and-December-1857_47814
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47814-h/images/cover.jpg
 creator:
   author:
     agent_name: Germon, Maria Vincent
     gutenberg_agent_id: '44478'
     url: http://www.gutenberg.org/2009/agents/44478
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47814#A-Diary-Kept-by-Mrs-R-C-Germon-at-Lucknow-Between-the-Months-of-May-and-December-1857
 gutenberg_issued: '2014-12-29'
 gutenberg_type: Text
 identifiers:
